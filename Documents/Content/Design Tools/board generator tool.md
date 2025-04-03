@@ -1,3 +1,2 @@
-# Resource Flow
+# Board Generator Tool
 
-Description of game economy/resource loops.

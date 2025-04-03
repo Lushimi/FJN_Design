@@ -1,2 +1,1 @@
-# Counter Phase
-
+# Discrete Resolution Times
