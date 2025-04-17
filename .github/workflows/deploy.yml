@@ -26,6 +26,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install mkdocs-material
+          pip install mkdocs-awesome-nav
 
       - name: Deploy to GitHub Pages
         run: |
