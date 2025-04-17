@@ -1,1 +1,0 @@
-# Discrete Resolution Times

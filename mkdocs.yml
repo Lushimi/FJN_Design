@@ -1,0 +1,64 @@
+site_name: Game Design Docs
+site_url: https://lushimi.github.io/FJN_Design/
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: ../README.md
+  - 🕹️ Content:
+      - Design Tools:
+          - Board Generator: Content/Design Tools/board generator tool.md
+          - Debug Tool: Content/Design Tools/debug tool.md
+          - Unit Generator: Content/Design Tools/unit generator tool.md
+      - Structures:
+          - Sprite Structure: Content/Structures/Sprite Structure/Sprite Structure.md
+      - ♟️Units:
+          - Bomber: Content/Units/Bomber/Bomber.md
+          - Concepts:
+              - Blocked Tiles: Content/Units/Concepts/Blocked Tiles.md
+              - Stat Modifiers: Content/Units/Concepts/Stat Modifiers.md
+              - Stunned Tiles: Content/Units/Concepts/Stunned Tiles.md
+              - Zone Creation: Content/Units/Concepts/Zone Creation.md
+  - Core:
+      - Concepts:
+          - Methodical Growth: Core/Concepts/Methodical Growth.md
+      - Mechanics: Core/Mechanics/index.md
+      - Systems: Core/Systems/index.md
+  - Playtests:
+      - Template: Playtests/PLAYTEST_TEMPLATE.md
+  - UI:
+      - Template: UI/UI_TEMPLATE.md
+  - Meta:
+      - Glossary: Meta/GLOSSARY.md
+      - Guidelines: Meta/GUIDELINES.md
+  - Proposals:
+      - Clones and Permadeath: Proposals/Clones and Permadeath.md
+      - Zone Managing Proposal: Proposals/Archive/Zone Managing Proposal.md
+      - Template: Proposals/PROPOSAL_TEMPLATE.md
+  - Images:
+      - Paste Samples: Images/Imagepastes/image.png
+      - Mockups: Images/Mockups/.keep
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.tabbed
+  - pymdownx.highlight
+
+docs_dir: Documents
+
+plugins:
+   - search
+   - awesome-nav
