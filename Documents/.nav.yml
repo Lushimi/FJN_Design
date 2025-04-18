@@ -1,0 +1,9 @@
+nav:
+  - Home: index.md
+  - "*"
+ignore: 
+  - "*.hidden.md"
+  - "index.md"
+
+
+flatten_single_child_sections: true
