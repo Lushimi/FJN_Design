@@ -1,6 +1,7 @@
 site_name: Game Design Docs
 site_url: https://lushimi.github.io/FJN_Design/
 theme:
+  logo: Images/logo.webp
   name: material
   palette:
   - scheme: default

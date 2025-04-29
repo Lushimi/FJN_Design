@@ -1,4 +1,4 @@
-# 🧠 Welcome to Bungi's Brain!
+# ![fatrat](Images\logo.webp) Welcome to Bungi's Brain!
 
 > Search, use the side bar, or check out these pages:
 
