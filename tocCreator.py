@@ -13,14 +13,16 @@ def generate_index_md(folder):
     folder_name = os.path.basename(folder)
     title = folder_name.replace("_", " ").replace("-", " ").title()
 
-    lines = f'''
-# 📂 {title}\n"
-    "## Contents:\n
+    lines = [
+f'''
+# 📂 {index_path.split('\\')[1]} {title}\n
+## Contents:\n
 '''
+]
 
     # List Markdown files (except index.md)
     for filename in sorted(os.listdir(folder)):
-        if filename.endswith(".md") and filename != "index.md" and not filename.endswith("hidden.md"):
+        if filename.endswith(".md") and filename != "index.md" and not filename.endswith(".hidden.md"):
             display_name = os.path.splitext(filename)[0].replace("-", " ").title()
             lines.append(f"- [{display_name}]({filename})")
 

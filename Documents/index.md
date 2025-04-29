@@ -2,8 +2,8 @@
 
 > Search, use the side bar, or check out these pages:
 
-## 🎯 Core Systems
-- [Core Concepts](Core/Concepts/)
+## 🎯 Core
+- [Concepts](Core/Concepts/)
 - [Mechanics](Core/Mechanics/)
 - [Systems](Core/Systems/)
 
