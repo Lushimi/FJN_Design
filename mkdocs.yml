@@ -51,3 +51,6 @@ docs_dir: Documents
 plugins:
    - search
    - awesome-nav
+
+extra_css:
+  - stylesheets/extra.css
