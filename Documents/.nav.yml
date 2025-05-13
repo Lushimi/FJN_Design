@@ -1,5 +1,5 @@
 nav:
-  - Home: index.md
+  - How to play: index.md
   - "*"
 ignore: 
   - "*.hidden.md"
@@ -7,3 +7,4 @@ ignore:
 
 
 flatten_single_child_sections: true
+preserve_directory_names: false

@@ -1,11 +1,11 @@
 # ![fatrat](Images\logo.webp) Welcome to Bungi's Brain!
 
-# Bungi 
+# How to Play 
 
 Bungi has a lot of rules and mechanics now. This is to help keep everything organized and have something we can refer back to.
 
- \
-**🛠 = **Currently being changed / reworked
+
+**🛠 =** Currently being changed / reworked
 
 
 ### **🃏 Stacking**
@@ -42,7 +42,7 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
 * Lose all units
 
 
-### **🎳🎲 Game Phases **
+### **🎳🎲 Game Phases**
 
 
 
@@ -54,7 +54,7 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
 
 
 
-* There are a finite number of resource tiles w/ a finite number of resources. **🛠** 
+* There are a finite number of resource tiles w/ a finite number of resources.**🛠** 
 * Sprites generate resources off of any resource tile at the start of your turn.
 * Sprites bypass many unit mechanics.
     * Sprites can innately stack to 4.
@@ -66,7 +66,7 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
     * They do not spawn with a movement action.
 
 
-### **🏢 Structures **
+### **🏢 Structures**
 
 
 
@@ -77,7 +77,7 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
 * Structures have upgrade paths
 
 
-### **✨ Essence **
+### **✨ Essence**
 
 
 
@@ -85,7 +85,7 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
 * The amount of essence dropped depends on where on the board the enemy is killed
 * The closer they are killed to your heart tiles, the more essence you get, with a maximum of 3
 * You gain essence per stack shaved off a unit
-* **Essence Emporium** is in the structures spreadsheet
+***Essence Emporium** is in the structures spreadsheet
 
 
 ### **👓 Special Must-Know Mechanics**

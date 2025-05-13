@@ -1,5 +1,5 @@
 
-# 📂 Content Bomber
+
 
 ## Contents:
 

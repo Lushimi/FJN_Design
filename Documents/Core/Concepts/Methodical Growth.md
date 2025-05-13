@@ -1,4 +1,4 @@
-## Methodical Growth
+
 A core concept of Bungi is expanding your control over resources and the game bit by bit in order to create better advantage for yourself.
 
 * Introduces risk management. 

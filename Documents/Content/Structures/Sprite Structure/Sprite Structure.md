@@ -1,4 +1,4 @@
-## Sprite Structure
+
 ## Description
 Provides upgrades and effects for resource gain and resource management. It is meant to create discrete steps the player can follow in order to progress in a match.
 

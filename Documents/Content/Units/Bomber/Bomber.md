@@ -1,6 +1,5 @@
-## Bomber
 
-![Bomber](image.png)
+![](image.png)
 
 ## Description
 Limited movement and blows up.
