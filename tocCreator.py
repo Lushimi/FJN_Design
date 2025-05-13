@@ -12,10 +12,10 @@ def generate_index_md(folder):
     # Section title from folder name
     folder_name = os.path.basename(folder)
     title = folder_name.replace("_", " ").replace("-", " ").title()
-
+    # Used to add this as first line, but we're getting rid of hand-written Titles in favor of the auto generated ones
+    # 📂 {index_path.split('\\')[1]} {title}\n
     lines = [
 f'''
-# 📂 {index_path.split('\\')[1]} {title}\n
 ## Contents:\n
 '''
 ]
