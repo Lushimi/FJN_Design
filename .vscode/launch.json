@@ -2,13 +2,18 @@
   "version": "1.0",
   "configurations": [    
       {
-
-        // For all args check here: https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html
           "name": "Launch Local Server",
           "type": "node-terminal",
           "request": "launch",
           "cwd": "${workspaceFolder}",
           "command": ".\\.env\\Scripts\\activate&& mkdocs serve"
+      },      
+	  {
+			"name": "Launch Local Server (no venv)",
+			"type": "node-terminal",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"command": "mkdocs serve"
       }
   ]
 }
