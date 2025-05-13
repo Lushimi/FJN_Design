@@ -1,5 +1,5 @@
 
-# 📂 Content Sprite Structure
+
 
 ## Contents:
 

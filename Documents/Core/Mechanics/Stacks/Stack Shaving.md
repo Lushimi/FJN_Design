@@ -1,4 +1,4 @@
-# Stack Shaving
+
 Stacked units have quantized pools of health according to their stack level.
 
 For example:

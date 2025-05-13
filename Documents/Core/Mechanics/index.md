@@ -1,5 +1,5 @@
 
-# 📂 Core Mechanics
+
 
 ## Contents:
 

@@ -1,5 +1,5 @@
 
-# 📂 Core Systems
+
 
 ## Contents:
 

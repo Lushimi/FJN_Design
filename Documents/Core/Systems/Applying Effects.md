@@ -1,4 +1,4 @@
-# Discrete Resolution Times
+
 
 ## Resolution Time
 

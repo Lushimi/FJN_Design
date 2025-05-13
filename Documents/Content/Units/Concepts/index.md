@@ -1,5 +1,5 @@
 
-# 📂 Content Concepts
+
 
 ## Contents:
 

@@ -1,5 +1,5 @@
 
-# 📂 Content Structures
+
 
 ## Contents:
 
