@@ -8,7 +8,7 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
 **🛠 =** Currently being changed / reworked
 
 
-### **🃏 Stacking**
+### 🃏 Stacking
 
 
 
@@ -18,7 +18,7 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
 * Unstack & Field Stack effects (see Structures)
 
 
-### **⛄ Units & Production**
+### ⛄ Units & Production
 
 
 
@@ -27,14 +27,14 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
 * Units have separate health, power, costs, effects, movement, and targeting
 
 
-### **💓 Hearts**
+### 💓 Hearts
 
 
 
 * Hearts must be MOVED into to be destroyed (annihilating the moving piece)
 
 
-### **❌🎮 Lose conditions**
+### ❌🎮 Lose conditions
 
 
 
@@ -50,7 +50,7 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
 * Active Phase: Can commit actions and commit counter phase actions
 * Counter phase: Actions will come into play at the end of the other person's turn
 
-**🌞🏭  Sprites and Resources**
+🌞🏭  Sprites and Resources
 
 
 
@@ -88,7 +88,7 @@ Bungi has a lot of rules and mechanics now. This is to help keep everything orga
 ***Essence Emporium** is in the structures spreadsheet
 
 
-### **👓 Special Must-Know Mechanics**
+### 👓 Special Must-Know Mechanics
 
 
 
