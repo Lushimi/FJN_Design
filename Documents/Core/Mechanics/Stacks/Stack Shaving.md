@@ -22,13 +22,23 @@ A 4stk unit has 8hp.
 * It is now a 3stk unit with 5hp.
 
 Currently calculating the stacks lost will be done with this function.
-```math
+
+$$
 \begin{aligned}
 &\text{int } \text{stacksLost} = 0; \\
 &\text{if (healthLost > baseHealthValue)} \\
 &\quad \text{stacksLost} = \left\lfloor \frac{\text{healthLost}}{\text{baseHealthValue}} \right\rfloor; \\
-&\text{if ((currentHealth - healthLost) \% \text{baseHealthValue} == 0)} \\
+&\text{if (currentHealth - healthLost) % baseHealthValue == 0)} \\
 &\quad \text{stacksLost} += 1; \\
 &\text{return } \text{stacksLost};
 \end{aligned}
+$$
+
+```cs
+int stacksLost = 0
+if (healthLost > baseHealthValue)
+	stacksLost= healthLost/baseHealthValue;
+if (((currentHealth - healthLost) % baseHealthValue) == 0)
+	stacksLost += 1;
+return stacksLost;
 ```
