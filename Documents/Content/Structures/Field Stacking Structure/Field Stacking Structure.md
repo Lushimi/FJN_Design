@@ -1,0 +1,12 @@
+## Utilization
+The field stacking structure must be built during the game. This structure directly interacts with [stacking](../../../Core/Mechanics/Stacks/Stacking.md), and allows stacked units to transfer their stacks to other units of the same type.
+
+| Level                     | Description                                                                                                                       | Cost |
+| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- | :--- |
+| 1. Field Stacking            | Allows units to use their omni-action to stack next to any cardinally adjacent same type unit. <li>  This will remove the omni-action of whatever it is stacked onto. Field stacked units only have their movement action available. (Unlike regular stacking)                                 | 6E   |                                                                                                  |      |
+| 2. Diagonal Field Stacking      | Allows field stacking in any adjacent tile.                                                                                       | 6E   |
+| 3. Unstacking         | Allows units to use their **omni-action** to un-stack. (Unstacking level 1)                                                              | 6E   |
+| **LEVEL 4: CHOICE**   |                                                                                                                                   |      |
+| 4. Powerful Field Stacking | Field stacking no longer removes the **omni-action** of what it was stacked onto.                                                     | 8E   |
+| **OR**                        |                                                                                                                                   |      |
+| 4. Speedy Field Stacking   | Allows units to use their **movement** action to field stack, instead of requiring an **omni**.<li>Stacking also interacts with the [unit-type limit](../../../Core/Mechanics/Unit%20Type%20Limits.md). (Reduces the count of a type of unit by 1)                                                   | 8E   |

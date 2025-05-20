@@ -1,0 +1,12 @@
+## Utilization
+The unstacking structure must be built during the game. This structure directly interacts with [stacking](../../../Core/Mechanics/Stacks/Stacking.md), and allows stacked units to split their stack to other tiles.
+
+| Level                   | Description                                                                                                                                         | Cost |
+| :---------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :--- |
+| 1. Unstacking             | Allows units to use their omni-action to halve their own stack (rounded down) and place the other half down cardinally adjacent to the unit. <ul><li> Unstacked units don't have **any** actions available.</li><li>You cannot unstack to a location if the tile is a [blocked tile](../../Units/Concepts/Blocked%20Tiles.md).<li> Unstacking onto another unit can only be done if you use both unstacking + field stacking directly onto another unit of the same type. This will normally take two omni-actions unless the speedy upgrade is applicable.</li></ul>| 6E   |
+| 2. Diagonal Unstacking        | Allows placement of new half-stack in any adjacent tile.                                                                                            | 6E   |
+| 3. Field Stacking   | Allows units to use their omni-action to combine into a stack outside the production zone. (Field stacking level 1)                                    | 6E   |
+| **LEVEL 4: CHOICE** |                                                                                                                                                     |      |
+| 4. Matryoshka Unstacking   | Unstacked units spawn with an **omni-action**.                                                                                                             | 8E   |
+| **OR**                      |                                                                                                                                                     |      |
+| 4. Speedy Unstacking       | Allows units to use their **movement** action to unstack instead of requiring an **omni**. <li>Unstacking to an empty tile is not possible if it would cause a player to exceed the [unit-type limit](../../../Core/Mechanics/Unit%20Type%20Limits.md).                                                                 | 8E   |
