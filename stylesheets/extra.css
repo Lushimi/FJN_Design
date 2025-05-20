@@ -1,0 +1,17 @@
+a.md-header__button > img:nth-child(1)
+{
+	/* Nav header icon */
+	height: 2rem;
+}
+
+.md-nav--primary > label:nth-child(1)
+{
+	/* Primary section headers */
+	font-size: 150%;
+}
+
+html.js-focus-visible.js body div.md-container main.md-main div.md-main__inner.md-grid div.md-sidebar.md-sidebar--primary div.md-sidebar__scrollwrap div.md-sidebar__inner nav.md-nav.md-nav--primary ul.md-nav__list li.md-nav__item.md-nav__item--section.md-nav__item--nested
+{
+	/* Sub section headers */
+	font-size: 125%;
+}
