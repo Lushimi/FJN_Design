@@ -1,7 +1,0 @@
-
-
-
-## Contents:
-
-
-- [Bomber](Bomber.md)
